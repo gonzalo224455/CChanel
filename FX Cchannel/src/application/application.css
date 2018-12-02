@@ -1,0 +1,7 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.mybutton{
+	-fx-background-color: #00e600;
+	-fx-border-color: #00e600;
+	-fx-text-fill: white;
+	-fx-border-radius: 5px;
+}
